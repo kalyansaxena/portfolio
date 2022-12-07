@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.93b8c622.css",
+    "main.js": "/portfolio/static/js/main.a46d6a7f.js",
+    "static/media/madmerse.png": "/portfolio/static/media/madmerse.f40dd4cccf198815bcb7.png",
+    "static/media/mern-auth-jwt.png": "/portfolio/static/media/mern-auth-jwt.e60808104906939f9b11.png",
+    "static/media/react-millionaire-quiz.png": "/portfolio/static/media/react-millionaire-quiz.e3e66f0031ccae49cb52.png",
+    "static/media/youtubeclone.png": "/portfolio/static/media/youtubeclone.7ab1160c60c2ced17aec.png",
+    "static/media/nft-landing-page.png": "/portfolio/static/media/nft-landing-page.2950b13dbd618ebca38d.png",
+    "static/media/react-smlogin.png": "/portfolio/static/media/react-smlogin.39c8d67df12c6090c3a3.png",
+    "static/media/kalyan.jpg": "/portfolio/static/media/kalyan.84e6019a0d2cd35909c4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.93b8c622.css.map": "/portfolio/static/css/main.93b8c622.css.map",
+    "main.a46d6a7f.js.map": "/portfolio/static/js/main.a46d6a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b8c622.css",
+    "static/js/main.a46d6a7f.js"
+  ]
+}
